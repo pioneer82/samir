@@ -4983,7 +4983,7 @@ a img {
 }
 
 .tech {
-    margin: 10px
+    /* margin: 10px */
 }
 
 .user {
@@ -5018,6 +5018,11 @@ a img {
     width: 90%;
     max-width: 960px;
     margin: 0 auto
+}
+
+.add-image {
+    width: 75px;
+    height: 75px;
 }
 
 @media only screen and (min-width:550px) {

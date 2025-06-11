@@ -9,4 +9,4 @@
 
 ![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
 
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+Please hit me up at pioneer200082@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
