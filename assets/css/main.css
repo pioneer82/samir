@@ -5062,7 +5062,7 @@ a img {
 
     .contents,
     .contents-right {
-        margin-top: -5%
+        margin-top: 0%
     }
 
     .contents-right,
@@ -5077,7 +5077,8 @@ a img {
 
     .images-left {
         float: left;
-        width: 48%
+        width: 48%;
+        margin-top: 1%;
     }
 
     .images-left img {
@@ -5097,7 +5098,43 @@ a img {
     outline: 0;
     text-decoration: none;
     cursor: pointer;
-    transition: color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out
+    transition: color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out;
+    margin-left: 18%;
+    margin-top: 2%
+}
+
+.left-project-link {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 5px;
+    color: #1488CC;
+    background-color: transparent;
+    border: 1px solid #1488CC;
+    border-radius: 10px;
+    text-align: center;
+    outline: 0;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out;
+    margin-left: 18%;
+    margin-top: 2%
+}
+
+.right-project-link {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 5px;
+    color: #1488CC;
+    background-color: transparent;
+    border: 1px solid #1488CC;
+    border-radius: 10px;
+    text-align: center;
+    outline: 0;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out;
+    margin-left: 70%;
+    margin-top: 2%
 }
 
 .project-link:active,
